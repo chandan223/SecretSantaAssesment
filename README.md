@@ -23,6 +23,9 @@ The Secret Santa Game is a React-based application that allows users to upload e
 ### Install dependencies:
 
 npm install
+npm i papaparse
+npm i lodash.shuffle
+npm i file-saver
 
 ### Start the development server:
 
